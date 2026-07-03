@@ -62,41 +62,41 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickfx35&lay
 <ul>
 
 <li>
-🏆 <strong>Administrando Banco de dados</strong> – Instituição<br>
+🏆 <strong>Administrando Banco de dados</strong> – Instituição Bradesco<br>
 🔗 <a href="https://lms.ev.org.br/mpls/web/Lms/UnifiedSearch/PageUnifiedSearch.aspx?elementID=736&filtersByContentType=WEB">Ver Certificado</a>
 </li>
 
 <br>
 
 <li>
-🏆 <strong>Crie um site simples usando: JS, HTML e CSS</strong> – Instituição<br>
+🏆 <strong>Crie um site simples usando: JS, HTML e CSS</strong> – Instituição Bradesco<br>
 🔗 <a href="https://lms.ev.org.br/mpls/web/Lms/UnifiedSearch/PageUnifiedSearch.aspx?elementID=706&filtersByContentType=WEB">Ver Certificado</a>
 </li>
 
 <br>
 
 <li>
-🏆 <strong>Inteligência Artificial e o Novo Contexto da Cultura Digital</strong> – Instituição<br>
+🏆 <strong>Inteligência Artificial e o Novo Contexto da Cultura Digital</strong> – Instituição Bradesco<br>
 🔗 <a href="https://lms.ev.org.br/mpls/web/Lms/UnifiedSearch/PageUnifiedSearch.aspx?elementID=691&filtersByContentType=WEB">Ver Certificado</a>
 </li>
 
 <li>
-🏆 <strong>Inteligência Artificial para Pequenas e Médias Empresas</strong> – Instituição<br>
+🏆 <strong>Inteligência Artificial para Pequenas e Médias Empresas</strong> – Instituição Bradesco<br>
 🔗 <a href="https://lms.ev.org.br/mpls/web/Lms/UnifiedSearch/PageUnifiedSearch.aspx?elementID=875&filtersByContentType=WEB">Ver Certificado</a>
 </li>
 
 <li>
-🏆 <strong>Introdução a Administração</strong> – Instituição<br>
+🏆 <strong>Introdução a Administração</strong> – Instituição Bradesco<br>
 🔗 <a href="https://lms.ev.org.br/mpls/web/Lms/UnifiedSearch/PageUnifiedSearch.aspx?elementID=510&filtersByContentType=WEB">Ver Certificado</a>
 </li>
 
 <li>
-🏆 <strong>Introdução a Gestão de Projetos</strong> – Instituição<br>
+🏆 <strong>Introdução a Gestão de Projetos</strong> – Instituição Bradesco<br>
 🔗 <a href="https://lms.ev.org.br/mpls/web/Lms/UnifiedSearch/PageUnifiedSearch.aspx?elementID=482&filtersByContentType=WEB">Ver Certificado</a>
 </li>
 
 <li>
-🏆 <strong>Linguagem de Programação: Python- Básico</strong> – Instituição<br>
+🏆 <strong>Linguagem de Programação: Python- Básico</strong> – Instituição Bradesco<br>
 🔗 <a href="https://lms.ev.org.br/mpls/web/Lms/UnifiedSearch/PageUnifiedSearch.aspx?elementID=482&filtersByContentType=WEB">Ver Certificado</a>
 </li>
 

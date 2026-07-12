@@ -35,7 +35,7 @@ header{
 
 .nav-link a{
     text-decoration: none;
-    
+
 
 }
 
@@ -124,6 +124,6 @@ header{
     border-radius: 12px;
 }
 
-html{
-    smooth-scroll: smooth;
+.html {
+    scroll-behavior: smooth;
 }

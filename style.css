@@ -28,7 +28,7 @@ body{
     border: 0;
     border-radius: 30px;
     cursor: pointer;
-    transition: all 0.2s ease;
+    transition: .2s;
 }
 
 h2.titulos{
@@ -39,6 +39,12 @@ h2.titulos{
 
 h2.titulos span{
     color: #0088ff;
+}
+
+button:hover{
+    box-shadow: 0px 0px 8px #0088ff;
+    transform: scale(1.05);
+    transition: .2s;
 }
 
 /* Estilo do cabeçalho */
@@ -74,10 +80,7 @@ header nav ul li{
     padding: 0 40px
 }
 
-.btn-contato button:hover{
-    box-shadow: 0px 0px 8px #0088ff;
-    transform: scale(1.05);
-}
+/* Estilo do topo do site */
 
 section .topo-do-site{
     padding: 40px 4%;
@@ -103,6 +106,7 @@ section.topo-do-site .flex{
 .topo-do-site .txt-topo-site p{
     color: #fff;
     margin: 40px 0px;
+    text-align: justify;
 }
 
 .topo-do-site .img-topo-site img{
@@ -146,4 +150,42 @@ section.especialidades .flex{
 .especialidades .especialidades-box h3{
     font-size: 28px;
     margin: 15px 0px;
+}
+
+/*ESTILO DO SOBRE */
+section.sobre{
+    padding: 80px 4%;
+
+}
+
+section.sobre .flex{
+    gap: 60px;
+    align-items: center;
+}
+.sobre .txt-sobre{
+    color: #fff;
+}
+
+.sobre .txt-sobre h2{
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 30px;
+}
+.sobre .txt-sobre h2 span{
+    color: #0088ff;
+    display: block;
+}
+.sobre .txt-sobre p{
+    margin: 30px 0px;
+    text-align: justify;
+}
+.sobre .txt-sobre .btn-social button{
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    border: none;
+    background-color: #0088ff;
+    font-size: 22px;
+    cursor: pointer;
+    margin:  0px 5px;
 }

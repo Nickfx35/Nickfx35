@@ -312,3 +312,33 @@ footer .line-footer p i{
 footer .line-footer p a{
     color: #fff;
 }
+
+@media screen and (max-width: 1090px){
+    /* CLASSES GERAIS */
+    .flex{
+        flex-direction: column;
+    }    
+    
+    /* CABEÇALHO */
+    .menu-desktop, .btn-contato{
+        display: none;
+    }
+
+
+/*TOPO DO SITE*/
+
+section.topo-do-site .flex{
+    gap: 40px;
+    }
+section .topo-do-site{
+    padding: 20px 8%;
+    }
+
+.topo-do-site h1{
+    font-size: 30px;
+
+    }
+    .topo-do-site .img-topo-site img{
+        width: 100%;
+    }
+}
